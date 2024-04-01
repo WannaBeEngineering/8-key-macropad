@@ -4,7 +4,7 @@ First off, thank you for purchasing this PCB, and I hope it works out great for 
 
 Things you’ll need:
 - The latest version of circuit python for the RP2040-zero (https://circuitpython.org/board/waveshare_rp2040_zero/)
-- The latest and greatest KMK firmware (http://kmkfw.io/Getting_Started/)
+- The latest and greatest KMK firmware (https://github.com/KMKfw/kmk_firmware/tree/master)
 - Lastly, the ‘code.py’ file, available in this repository. 
 
 Recommended:
