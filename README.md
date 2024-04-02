@@ -1,7 +1,7 @@
 Startup guide for the WannaBe 8-Key Macropad:
 
 First off, thank you for purchasing this PCB, and I hope it works out great for you. I am no expert-coder, so the instructions and code I’ll be
-providing are pretty basic, but it does work.
+providing are pretty basic.
 
 Things you’ll need:
 - The latest version of circuit python for the RP2040-zero (https://circuitpython.org/board/waveshare_rp2040_zero/)
