@@ -1,5 +1,5 @@
 # Basic KMK code for the WannaBe Engineering 8-Key macropad
-# To customize your keymap, and all other possibilities visit https://kmkfw.io/keycodes/
+# To customize your keymap, and all other possibilities visit https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/keycodes.md
 # Big thanks to the team at KMK for providing their code to the public
 
 import board
